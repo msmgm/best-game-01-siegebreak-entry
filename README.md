@@ -1,7 +1,8 @@
 # SIEGEBREAK
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-purple)](https://make.fun/bounties/best-game-01)
-[![bounty: best-game-01](https://img.shields.io/badge/bounty-best--game--01-orange)](https://make.fun/bounties/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/msmgm/best-game-01-siegebreak-entry/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/msmgm/best-game-01-siegebreak-entry/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 [![Node 22](https://img.shields.io/badge/runtime-Node%2022-brightgreen)](https://nodejs.org)
 
 SIEGEBREAK is a physics siege game built for the make.fun best-game-01 bounty. You are the last engineer of a fallen kingdom, defending your honor and breaking through ten increasingly formidable enemy castles using a sturdy trebuchet.
